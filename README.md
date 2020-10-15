@@ -1,3 +1,3 @@
 # Headline
 
-> An awesome project.
+> Docs Generator Documentation.
