@@ -9,38 +9,16 @@
 ## Installing Docs-Generator plugin
   
 <br>
-1. Login to your account on Codecanyon. Choose ‘Downloads’ from a menu.
 
-![downloads-menu.jpg](img/downloads-menu.jpg)
-
-2. Now, click a ‘Download‘ button in which item you want to download. You have tow options for downloading your theme:
-
-- All files and documentation (Complete Zip archive)
-- Installable WordPress file only.
-
-![download-item.jpg](img/download-item.jpg)
-
-3. Upload docs-generator zip file  via WordPress Dashboard > Plugins > Add New > Upload > Install Now
+1. Upload docs-generator zip file  via WordPress Dashboard > Plugins > Add New > Upload > Install Now
 
 ![activate-plugin.jpg](img/activate-plugin.jpg)
 <br>
 
-4. Click Activate Plugin.
-5. Congratulations You’ve successfully installed and activated Docs-Generator plugin on your website.
+3. Click Activate Plugin.
+4. Congratulations You’ve successfully installed and activated Docs-Generator plugin on your website.
 
 ![plugin-overview.jpg](img/plugin-overview.jpeg)
-
-
-# **Plugin Activation**
-
-> You have two options for plugin activation:
-
-1. Using your purchase code. [Where find it ? ](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-)
-2. Using your bypass code.
-3. Click on **Activate** button.
-4. Congratulations You’ve successfully **activate** Docs-Generator plugin, enjoy it.
-
-![activate-purchase.jpg](img/activate-purchase.jpg)
 
 
 # **Prepare document**
