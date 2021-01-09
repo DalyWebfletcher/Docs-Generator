@@ -100,7 +100,7 @@ Finally click on verify db button, if settings are ok, you will recive a success
 
 # **Prepare document**
 
-> In this section , we will see how to add template and data for your document.
+> In this section ,we will see how to add template and data for your document.
 Let's start with Add new document.
 
 ![new-doc.jpg](img/new-doc.jpg)
