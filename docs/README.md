@@ -1,6 +1,6 @@
 # **Getting started**
 
-## Installing Docs-Generator
+## Installing Docs-Generator plugin
   
 <br>
 
@@ -8,72 +8,23 @@
 
 <br>
 
-2. Open your browser, then go to the adresse of docs-generator app : **//home/docs-generator**.
+2. Open your browser, then go to the adresse of docs-generator app : home/docs-generator.
+3. Congratulations You’ve successfully installed and activated Docs-Generator plugin on your website.
 
-![installpng](img/install-app.png)
-
-### Activation
-3. The first step on install documents generator is the activation.
-> You have two options for activation:
-
-    * using your purchase code. [Where find it ? ](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-)
-    * Using your bypass code.
-    * Click on **Activate** button.
-    * Congratulations You’ve successfully **activate** Docs-Generator, enjoy it.
-
-![activate-app.png](img/activate-app.png)
-
-### Database Settings
-> The second step is to set the **database settings** :
-
-  * Hostname
-  * Username
-  * Password
-  * Database name.
-
-> If the database don't exist, you can create it manually or by clicking on create button.
-Finally click on verify db button, if settings are ok, you will recive a success message, else you need to verify your settings.
-
-![database-app.png](img/database-app.png)
-
-### EMail Settings
-> The next step is to setup the mail settings that will be used when you generate documents to send them to your customers.
-  You can skip this step or also skip the database settings step and configure them later.
-> In this step, we have two options:
-
-  * Default server mail.
-  * Custom mail.
-
-> If you select a custom mail, then you need to setup **the SMTP server, port, your mail adresse and  password **.[where to find this settings ? ](https://www.serversmtp.com/smtp-server-address/)
-
-> Then you can check if settings are ok, so put anathor mail adresse then click on send button, you will recive a success or an error message if some of settings are invalide.
-> Now check your mail account to see if you received a test mail.
-
-![mail-app.png](img/mail-app.png)
-
-### Account Settings
-
-> Next step is the account settings, you must change the default seetings, and put your email adresse and choose a password for your documents generator account.
-> You need to verify carrefully you adresse mail because it will be used to recover your passwor if you forgot it.
-
-![account-app.png](img/account-app.png)
-
-### App status
-
-> Now you can see the previous steps status, and check if there is some errors to resolved them.
-
-![app-status.png](img/app-status.png)
-
-### Delete install folder
-
-> The final step is to delete the install folder, so all you need is to refer to documents generator folder on your server, then delete install folder.
-
-![finish-app.png](img/finish-app.png)
+![plugin-overview.jpg](img/plugin-overview.jpeg)
 
 
-> Now you can click on login link, then put your username and password, and you can start generate your documents
+# **Plugin Activation**
 
-![login-app.png](img/login-app.png)
+> You have two options for plugin activation:
+
+1. Using your purchase code. [Where find it ? ](https://www.mojomarketplace.com/account/purchases)
+2. Using your bypass code.
+3. Click on **Activate** button.
+4. Congratulations You’ve successfully **activate** Docs-Generator plugin, enjoy it.
+
+![activate-purchase.jpg](img/activate-purchase.jpg)
+
 
 # **Prepare document**
 
@@ -86,11 +37,14 @@ Let's start with Add new document.
 > To add a template for your document:
 
 1. Click on **browse** button.
-2. Choose an image from your personal folder.
+
+![browse-template.jpg](img/browse-template.jpg)
+
+2. Choose an image from your gallery or you can **upload** an new one from you local machine.
 3. **Validate** your choice.
 >> **PS:** You can skip the guide by clicking on **Close** or "**dont show again**" button.
 
-![template.png](img/template.png)
+![choose-template.jpg](img/choose-template.jpg)
 
 ## Step 2: Add Data
 > The data that will be used in the generated documents are extracted from an Excel file.
@@ -101,8 +55,11 @@ To add Data:
 
 ![browse-fields.jpg](img/browse-fields.jpg)
 
-2. Choose an Excel file from your local folder.
+2. Choose an Excel file from your gallery or you can **upload** an new one from you local machine.
 3. **Validate** your choice.
+
+![choose-file.jpg](img/choose-file.jpg)
+
 4. Select the Fields to use in your document.
 5. If you have in your Excel file an **image** data ***( Url of an image )***, you can definet it.
 6. Click on validate.
@@ -137,7 +94,7 @@ To add Data:
 
 ![custom-image.jpg](img/custom-image.jpg)
 
-  2. Choose an image from your local folders.
+  2. Choose an image from your gallery or upload a new one.
   3. Validate your choice. 
 
 ![custom-image2.jpg](img/custom-image2.jpg)
@@ -216,6 +173,9 @@ To add Data:
 
 > **Mail adresses** data columns are auto detected so if you want to send document generated via e-mail to your customers, you need to follow these steps:
 
+- [How to Send Email in WordPress using the Gmail SMTP Server ](https://www.wpbeginner.com/plugins/how-to-send-email-in-wordpress-using-the-gmail-smtp-server/)
+- [How to Configure WordPress to Use SMTP For Sending Emails](https://www.siteground.com/tutorials/wordpress/use-smtp/)
+
 1. You must have an email addresses column in your main data.
 
 ![adresse-mail.jpg](img/adresse-mail.JPG)
@@ -233,26 +193,3 @@ To add Data:
 
 
 > If the selected column contains incorrect emails, a window will appear with the incorrect emails and you can cancel the export operation or ignore the wrong emails and continue the export and send operations.
-
-# **Save document**
-
-> You can at any time save your work by clicking on save document button at the right bottom of the page, then choose a file name.
-
-![save.png](img/save.png)
-
-> The you can edit your documents from all documents menu.
-
-![settings.png](img/settings.png)
-
-![all-doc.png](img/all-doc.png)
-
-# **Update settings**
-
-> You can at any time update theb main settings, just click on settings from the left menu.
-
-![settings.png](img/settings.png)
-
-![install-app.png](img/install-app.png)
-
->> **That's all, enjoy it !!**
-===============
