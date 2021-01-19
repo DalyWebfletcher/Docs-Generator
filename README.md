@@ -184,7 +184,7 @@ To add Data:
 
 ![mail-data.jpg](img/mail-data.jpg)
 
-> If the selected column does not contain Wrong emails, then an e-mail will be sent to each adresse mail containing the document generated.
+> If the selected column does not contain Wrongs emails, then an e-mail will be sent to each adresse mail containing the document generated.
 
 
-> If the selected column contains incorrect emails, a window will appear with the incorrect emails and you can cancel the export operation or ignore the wrong emails and continue the export and send operations.
+> If the selected column contains incorrects emails, a window will appear with the incorrects emails and you can cancel the export operation or ignore the wrong emails and continue the export and send operations.
