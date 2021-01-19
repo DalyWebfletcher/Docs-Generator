@@ -173,7 +173,7 @@ To add Data:
 
 1. You must have an email addresses column in your main data.
 
-![adresse-mail.jpg](img/adresse-mail.JPG)
+![adresse-mail.jpg](img/adresse-mail.jpg)
 
 2. Select JPEG or PNG file format.
 3. Switch on **Also email it to all users!**.
@@ -182,7 +182,7 @@ To add Data:
 6. Type mail message.
 7. Click on export.
 
-![mail-data.jpg](img/mail-data.JPG)
+![mail-data.jpg](img/mail-data.jpg)
 
 > If the selected column does not contain Wrong emails, then an e-mail will be sent to each adresse mail containing the document generated.
 
